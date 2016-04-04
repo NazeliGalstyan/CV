@@ -1,0 +1,204 @@
+body{
+	margin: 0;
+	width: 2476px;
+}
+
+.clearfix:after{
+    content:'';
+    display:block;
+    clear:both;
+    visibility:hidden;
+    font-size:0;
+    height:0;
+}
+
+.header h1, .header .header_text p{
+	color: #fff;
+	text-transform: uppercase;
+	margin: 0;	
+}
+
+.header{
+	height: 858px;
+	background-color: #000000;
+	margin-top: 66px;
+}
+
+.header .image_wrapper{
+	width: 374px;
+	height: 374px;
+	float: left;
+	margin: 104px 174px 0 394px;
+}
+
+.header .image_wrapper img{
+	width: 100%;
+	border-radius: 500px;
+}
+
+.header .header_text{
+	display: block;
+	float: left;
+	color: #fff;
+	font-size: 50px;
+}
+
+.header .header_text h1{
+	margin: 64px 0 72px 0;
+	text-transform: uppercase;
+}
+
+.header .header_text p{
+	text-transform: lowercase;
+}
+
+.container h1, h4, h2, p{
+	color: #000000;
+}
+
+.container .education h2{
+	margin: 28px 0 0 79px;
+	text-transform: uppercase;
+}
+
+.container .education hr{
+	margin-left: 78px;
+}
+
+.container .education .ed_info{
+	float: left;
+	width: 256px;
+	text-align: left;
+	font-size: 41px;
+	float-left: 390px;
+	margin: 0 158px 105px 392px;
+}
+
+.container .education .ed_centers{
+	width: 775px;
+	margin: 0;
+}
+
+.container .education .skill_icons1{
+	float: left;
+	margin: 99px 86px 86px 398px;
+	text-align: center;
+}
+
+.container .education .skill_icons1 .icon_wrapper{
+	margin-bottom: 17px;
+}
+
+.container .education .skill_icons1 .balls .ball1{
+	width: 18px;
+	height: 18px;
+	background-color: #000000;
+	border-radius: 50px;	
+    border: 1px solid #000000;
+    float: left;
+    margin: 27px 16px 0 0px;
+}
+.container .education .skill_icons1 .balls .ball1:first-child{
+	margin-left: 64px;
+}
+
+.container .education .skill_icons1 .balls .ball1:hover{
+	background-color: #FFEB3B;
+	border: 1px solid #FFEB3B;
+}
+
+.container .education .skill_icons1 p{
+	text-transform: lowercase;
+	margin: 0;
+	font-size: 41px;
+}
+
+.container .education .skill_icons1 p:first-letter{
+	text-transform: uppercase;
+}
+
+.container .education .skill_icons1.icon{	
+	float: left;
+	margin: 99px 124px 0 0;	
+	text-align: center;
+}
+
+.container .education .icon_block.second_block .skill_icons1 {
+	margin-top: 0;
+}
+
+.container .education .creativity{
+	width: ;
+}
+
+.container .education table{
+	margin: 96px 0 30px 398px;
+}
+
+.container .education .table2{
+	margin: 0 0 0 398px;
+}
+.container .education table, td{
+	border: 1px solid #000000;
+	border-collapse: collapse;
+}
+
+.container .education table .r1 .td1{
+	min-width: 658px;
+	padding: 20px;
+	background-color: #000000;
+}
+
+.container .education table .r1 .td2{
+	width: 247px;
+}
+
+.container .education table .r1 .td3{
+	padding-left: 59px;
+	border: hidden;
+    border-left: 1px solid #000000;
+    font-size: 40px;
+}
+
+.container .education table .r1 .td1.cell{
+	min-width: 834px;
+}
+
+.container .education table .r1 .td2.cell{
+	width: 70px;
+}
+
+.container .education .table3{
+	margin: 30px 0 30px 398px;
+}
+
+.container .education .table3 .r1 .td1.cell1{
+	min-width: 566px;
+}
+
+.container .education .table3 .r1 .td2.cell2{
+	width: 337px;
+}
+
+.container .education .table3 .r1 .td1.cell3{
+	min-width: 906px;
+}
+
+.container .last_block .profile_1{
+	float: left;
+	width: 167px;
+	text-align: center;
+	margin: 97px 189px 0 0;
+}
+
+.container .last_block .profile_1 p{
+	margin: 0;
+	font-size: 40px;
+}
+
+.container .last_block.fb{
+	margin-left: 330px;
+	margin-bottom: 100px;
+}
+
+
